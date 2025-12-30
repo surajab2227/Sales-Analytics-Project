@@ -1,5 +1,7 @@
 # 📊 Sales Analytics Project
 
+**Dashboard Overview link** - https://app.powerbi.com/groups/me/reports/14d9f7f4-68b6-49a0-9ba9-ed9270986abe/3e04c710e4ca4ce726c6?experience=power-bi
+
 ## 🔍 Project Overview
 This project demonstrates an end-to-end sales analytics workflow using
 Python, SQL, and Power BI. The objective is to analyze sales performance,
